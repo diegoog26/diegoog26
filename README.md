@@ -21,7 +21,3 @@
 ![VIRTUAL BOX](https://img.shields.io/badge/VIRTUAL%20BOX-blue?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Arduino](https://img.shields.io/badge/ARDUINO-%23356082?style=for-the-badge&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/LINUX-green?style=for-the-badge&logo=linux&logoColor=white)
-
-<H1>📊 Estatísticas</H1>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoo26)](https://github.com/diegoo26/github-readme-stats)
