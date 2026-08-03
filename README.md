@@ -1,16 +1,27 @@
-# 👋 Seja bem-vindo ao meu perfil!!
+# 👋 Olá, eu sou o Diego!
 
-💻 Meu nome é Diego e sou estudante de TI e atualmente curso Técnico em Informática.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC São Paulo.
 
-🚀 Meu objetivo é aprender cada vez mais e evoluir constantemente na área de Tecnologia da Informação.
+💻 Técnico em Informática pelo Senac.
 
-📚 Estou sempre buscando novos desafios, estudando ferramentas, linguagens e conceitos que possam expandir minhas habilidades.
+🚀 Atualmente estudando Java, SQL e desenvolvimento web.
 
-👨‍💻 Aqui no meu perfil do GitHub você encontra meus projetos, estudos e experimentos enquanto construo minha jornada na área de tecnologia.
+📚 Aqui você encontra meus projetos, estudos e experimentos.
 
 #
 
-<h1>💻 Tecnologias que eu uso no dia a dia</h1>
+## 📌 Projetos em destaque
+
+### 🔧 IFixTec
+Sistema desktop para gerenciamento de clientes e serviços desenvolvido em Java com MySQL.
+
+**Tecnologias:** Java • MySQL • Swing
+
+🔗 Repositório: [https://github.com/seu-usuario/IFixTec](https://github.com/diegoog26/IFixTec-Sistema.git)
+
+#
+
+# 💻 Tecnologias que eu uso no dia a dia
 
 ![Windows](https://img.shields.io/badge/WINDOWS-blue?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
