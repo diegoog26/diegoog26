@@ -17,7 +17,7 @@ Sistema desktop para gerenciamento de clientes e serviços desenvolvido em Java 
 
 **Tecnologias:** Java • MySQL • Swing
 
-🔗 Repositório: [https://github.com/seu-usuario/IFixTec](https://github.com/diegoog26/IFixTec-Sistema.git)
+🔗 Repositório: [https://github.com/diegoog26/IFixTec-Sistema.git.com](https://github.com/diegoog26/IFixTec-Sistema.git)
 
 #
 
